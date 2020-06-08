@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devergroup-io/devergroup-google_translate"
+    "url": "git+https://github.com/devergroup-io/devergroup-proxies"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/devergroup-io/devergroup-google_translate/issues"
+    "url": "https://github.com/devergroup-io/devergroup-proxies/issues"
   },
-  "homepage": "https://github.com/devergroup-io/devergroup-google_translate#readme",
+  "homepage": "https://github.com/devergroup-io/devergroup-proxies#readme",
   "devDependencies": {
     "@types/jest": "^25.2.3",
     "@types/node": "^14.0.5",
